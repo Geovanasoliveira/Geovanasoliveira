@@ -1,5 +1,5 @@
 ## Olá! Sou a Geovana Oliveira 👋
-
+- 📚 Estudante de Sistemas para Internet com ênfase em front-end dev. 
 - 🌱 Estudando UI/UX Design, HTML 5, CSS3 e JavaScript.
 - 😄 Pronome: ela/dela.
 
